@@ -8,12 +8,8 @@ import numpy as np
 import mediapipe as mp
 
 
-WINDOW_NAME = "Meme Mirror"
-
-# True = arranca directo en pantalla completa, sin splash/tutorial y sin textos ni marcos encima.
-# Ponlo en False para volver a la interfaz anterior (títulos, barras, HELP, etc.).
+WINDOW_NAME = "Momos licic"
 CLEAN_UI = True
-
 # Si el programa no detecta bien el tamaño de tu pantalla, ponlo a mano, por ejemplo (1920, 1080).
 SCREEN_SIZE_OVERRIDE = None
 
